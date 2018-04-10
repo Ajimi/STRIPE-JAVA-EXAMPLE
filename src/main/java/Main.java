@@ -25,7 +25,6 @@ public class Main {
 
         // TODO: 4/9/2018
 
-
         stripeClient.createInvoice(user, true);
 
     }
